@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "417881651503",
+    "firebase_url": "https://social-media-app-db92e.firebaseio.com",
+    "project_id": "social-media-app-db92e",
+    "storage_bucket": "social-media-app-db92e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417881651503:android:20dff4585ffb0ade2449da",
+        "android_client_info": {
+          "package_name": "com.wahyuakbarwibowo.socialmediaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417881651503-f5nf3tgu4eote2afaer44metsf0psa5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtDe4DuRFYQ4hycgJoAf-7rLyjZD5qNhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417881651503-f5nf3tgu4eote2afaer44metsf0psa5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

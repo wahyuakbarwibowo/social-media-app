@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Social Media App</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="belum_punya_akun">Belum Punya Akun?</string>
+    <string name="daftar_dan_login">Daftar dan Login</string>
+    <string name="apa_yang_anda_pikirkan">Apa yang Anda Pikirkan</string>
+    <string name="welcom_to_social_media">Welcom to Social Media</string>
+    <string name="logout">Logout</string>
+</resources>
